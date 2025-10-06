@@ -1,4 +1,9 @@
-pandas
-numpy
+Libraries Used for this Program:
+
+pandas 
+numpy as np
 torch
-scikit-learn
+torch.nn 
+torch.nn.functional 
+From sklearn.preprocessing -- LabelEncoder, StandardScaler
+from sklearn.model_selection -- train_test_split
